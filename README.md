@@ -1,10 +1,10 @@
-﻿﻿# Weather App ☀️🌧️
+﻿# Weather App ☀️🌧️
 
 A modern Android Weather application built with **Clean Architecture**, **Jetpack Compose**, **MVVM**, **Hilt**, **Retrofit**, **Room**, and **Coroutines**.
 
 ## Repository
 
-🔗 Repository: https://github.com/JAVADESTEKI/Weather-clean-architecture--convert-to-Compose
+🔗 Repository: https://github.com/JAVADESTEKI/WeatherApp-Jetpack_Compose_Clean_Architecture
 
 ---
 
@@ -63,6 +63,17 @@ A modern Android Weather application built with **Clean Architecture**, **Jetpac
 * Integration Tests
 * DAO Tests
 
+## API
+
+This project uses the OpenWeather API:
+
+https://openweathermap.org/api
+
+Features powered by the API include:
+
+- Current weather conditions
+- 5-day weather forecast
+- City search and geolocation
 ---
 
 ## Architecture
@@ -183,7 +194,7 @@ weather
 ## Build & Run
 
 ```bash
-git clone https://github.com/JAVADESTEKI/Weather-clean-architecture--convert-to-Compose.git
+git clone https://github.com/JAVADESTEKI/WeatherApp-Jetpack_Compose_Clean_Architecture.git
 ```
 
 Open the project in Android Studio and run:
